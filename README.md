@@ -1,0 +1,2 @@
+# Minecraft_FAWELog_Spigot
+MinecraftのプラグインFAWEで作業したブロックの設置ログをCoreProtectに反映させるためのプラグイン
